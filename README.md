@@ -10,27 +10,44 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohanakut&rank=S,AAA,AA,A,B&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a> 
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
- <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
- <a href="https://www.docker.com/" target="_blank"> <img src="https://www.underworldcode.org/content/images/size/w600/2020/08/Moby-logo.png" alt="docker" width="40" height="40"/> </a> 
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="html5" width="40" height="40"/> </a> 
-<!--   <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a>  -->
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql" width="40" height="40"/> </a> 
-<!--   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" alt="tailwindcss" width="40" height="40"/> </a>  -->
-<!--    <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS" width="40" height="40"/> </a>  -->
-<!--      <a href="https://huggingface.co/docs/transformers/index" target="_blank"> <img src="https://luxcapital-website-media.s3.amazonaws.com/wp-content/uploads/2019/12/23115642/Logo-600x554.png" alt="Huggingface" width="40" height="40"/> </a> 
-  -->
-   <a href="https://flask.palletsprojects.com/en/1.1.x/patterns/favicon/" target="_blank"> <img src=" https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" alt="mysql" width="40" height="40"/> </a> 
- </p>
+
+## ⚙️ *Tech Stack I am Familiar With*:
+
+<p align="center">
+<br/>
+<img alt="Python" src="https://img.shields.io/badge/Python-9cf?logo=python" height="25" />
+<img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-green?logo=pytorch"  height="25" style="margin:2px;"/>
+<img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-blueviolet?logo=tensorflow"  height="25" style="margin:2px;"/>
+<img alt="Keras" src="https://img.shields.io/badge/Keras-yellowgreen?logo=keras"  height="25" style="margin:2px;"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-blueviolet?logo=git"   height="25" style="margin:2px;"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-white?logo=docker" height="25"style="margin:2px;"/>
+<img alt="Unix" src="https://img.shields.io/badge/Unix-blueviolet?logo=linux"  height="25" style="margin:2px;"/>
+<img alt="Flask" src="https://img.shields.io/badge/Flask-yellow?logo=flask"  height="25" style="margin:2px;"/>
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-green?logo=opencv"  height="25" style="margin:2px;"/>
+<img alt="Scikit" src="https://img.shields.io/badge/Scikit-white?logo=scikitlearn" height="25" style="margin:2px;"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-orange?logo=amazonaws" height="25" style="margin:2px;"/>
+<img alt="Azure" src="https://img.shields.io/badge/Azure-ff69b4?logo=microsoftazure"  height="25" style="margin:2px;"/>
+<img alt="JaveScript" src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript" height="25" style="margin:2px;"/>
+ <img alt="HTML" src="https://img.shields.io/badge/HTML-inactive?logo=html5" height="25" style="margin:2px;"/>
+
+<!-- <img alt="HTML" src="https://img.shields.io/badge/AWS-orange?logo=amazonaws" style="margin:2px;"/> -->
  
+
+
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanakut&size_weight=0.5&count_weight=0.5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--  <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" style="margin:2px;"/>
+
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin:2px;"/>
+<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" style="margin:2px;"/>
+<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin:2px;"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" style="margin:2px;"/>
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
+<img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white" style="margin:2px;"/>
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" style="margin:2px;"/> -->
+<br/>
+</p> 
+ 
 
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rohanakut.rohanakut) -->
