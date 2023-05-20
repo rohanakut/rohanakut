@@ -7,6 +7,7 @@
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohanakut&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanakut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rohanakut.rohanakut) -->
 </div>
