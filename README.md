@@ -21,7 +21,7 @@ I am an AI researcher with 3 years of experience in applying Computer Vision mod
 <br>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohanakut&rank=S,AAA,AA,A,B&t&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rohanakut&theme=juicyfresh&rank=S,AAA,AA,A,B&t&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 
 ## ⚙️ *Tech Stack I am Familiar With*:
