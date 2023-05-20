@@ -16,7 +16,7 @@ I am an AI researcher with 3 years of experience in applying Computer Vision mod
 ## 🏆 *Github Status*
 
 <img  src="https://github-readme-stats.vercel.app/api?username=rohanakut&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rohanakut&theme=dark" width="48%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rohanakut&theme=radical" width="48%" >
 
 <br>
 
