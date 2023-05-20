@@ -5,10 +5,10 @@
 
 <br>
 
-<div align="left">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohanakut&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanakut&size_weight=0.5&count_weight=0.5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rohanakut.rohanakut) -->
-</div>
+
