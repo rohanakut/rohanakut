@@ -5,7 +5,7 @@ I am an AI researcher with 3 years of experience in applying Computer Vision mod
 [<img alt="Outlook" src="https://img.shields.io/badge/Outlook-blueviolet?logo=microsoftoutlook" height="25"/>](mailto:rajputvishal33786@gmail.com)
 [<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-critical?logo=github" height="25"/>](https://www.linkedin.com/in/rohan-akut-13535711a/)
 
-## A few popoular projects
+## A few popular projects
 1. 
 
 ## 🧑🏻‍💻 Some of my open source work
@@ -15,7 +15,7 @@ I am an AI researcher with 3 years of experience in applying Computer Vision mod
 
 ## 🏆 *Github Status*
 
-<img  src="https://github-readme-stats.vercel.app/api?username=rohanakut&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=rohanakut&show_icons=true&hide_border=true&theme=radical" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rohanakut&theme=radical" width="48%" >
 
 <br>
