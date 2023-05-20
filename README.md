@@ -1,8 +1,9 @@
 ## Welcome to my profile
 I am an AI researcher with 3 years of experience in applying Computer Vision models to solve problems in the field of accessibility, comptational biology, architecture design. 
 
-Some of my open source work can be found at
-[IMAGE](https://github.com/Shared-Reality-Lab/IMAGE-server): The project is a browser extension that aims to provide image descriptions to blind individuals. My contribytions involve deploying AI models at the backend to extract and deliver information to the users.
+## 🧑🏻‍💻 Some of my open source work
+1. [IMAGE](https://github.com/Shared-Reality-Lab/IMAGE-server): The project is a browser extension that aims to provide image descriptions to blind individuals. My contribytions involve deploying AI models at the backend to extract and deliver information to the users.
+2. [All Mobile Sensors](https://github.com/rohanakut/AndroidSensors): Developed a Dart package that allows communication between android sensors using simple Flutter plugins. The package is available [online](https://pub.dev/packages/all_mobile_sensors) 
 
 
 ## 🏆 *Github Status*
