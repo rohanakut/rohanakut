@@ -5,9 +5,6 @@ I am an AI researcher with 3 years of experience in applying Computer Vision mod
 [<img alt="Outlook" src="https://img.shields.io/badge/Outlook-blueviolet?logo=microsoftoutlook" height="25"/>](mailto:rajputvishal33786@gmail.com)
 [<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-critical?logo=github" height="25"/>](https://www.linkedin.com/in/rohan-akut-13535711a/)
 
-## A few popular projects
-1. 
-
 ## 🧑🏻‍💻 Some of my open source work
 1. [IMAGE](https://github.com/Shared-Reality-Lab/IMAGE-server): The project is an AI-based browser extension that aims to provide image descriptions for blind individuals. My contributions involve deploying AI models at the backend to extract and deliver information to the users.
 2. [All Mobile Sensors](https://github.com/rohanakut/AndroidSensors): Developed a Dart package that allows communication between android sensors using simple Flutter plugins. The package is available [online](https://pub.dev/packages/all_mobile_sensors) 
