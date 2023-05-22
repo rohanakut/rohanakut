@@ -2,7 +2,7 @@
 I am an AI researcher with 3 years of experience in applying Computer Vision models to solve problems in the field of accessibility, comptational biology, architecture design. 
 <br>
 [<img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin" height="25">](https://www.linkedin.com/in/rohan-akut-13535711a/)
-[<img alt="Outlook" src="https://img.shields.io/badge/Outlook-blueviolet?logo=microsoftoutlook" height="25"/>](mailto:rajputvishal33786@gmail.com)
+[<img alt="Outlook" src="https://img.shields.io/badge/Outlook-blueviolet?logo=microsoftoutlook" height="25"/>](mailto:rohan.akut@mail.mcgill.ca)
 [<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-critical?logo=github" height="25"/>](https://www.linkedin.com/in/rohan-akut-13535711a/)
 
 ## 🧑🏻‍💻 Some of my open source work
